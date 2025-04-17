@@ -1,0 +1,16 @@
+{
+    "output_dir": "output",
+    "object_list": "object.list",
+    "action_list": "action.list",
+    "character_list": "character.list",
+    "valid_location": "ground",
+    "max_camera_keyframes": 2,
+    "object_count": [0, 0],
+    "render_settings": {
+        "engine": "BLENDER_EEVEE_NEXT",
+        "taa_render_samples": 32,
+        "eevee_taa_samples": 64,
+        "resolution": [384, 672],
+        "frame_range": [1, 60]
+    }
+}
